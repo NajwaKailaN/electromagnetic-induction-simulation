@@ -1,1 +1,2 @@
 Electromagnetic Induction Simulation using Python and Pygame to visualize changes in magnetic flux and electromotive force (EMF) over time. This project aimed to enhance understanding of Faraday’s Law through an interactive and visual representation of the induction phenomenon.
+<img width="1870" height="997" alt="Screenshot 2025-07-27 201905" src="https://github.com/user-attachments/assets/5fed711f-b434-4691-a196-4361e52cdf22" />
